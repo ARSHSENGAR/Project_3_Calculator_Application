@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/arshsengar/Project_3_Calculator_Application">
-    <img src="https://ibb.co/m6DqrQD" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/0hDMpPD/favicon.png" alt="favicon" border="0">
   </a>
 
   <h3 align="center">Calculator Application</h3>
@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/ScXWCKG)
+![Screen Shot](https://i.ibb.co/gdMHKDh/Project-3-Calculator-Application.png)
 
 This is my third project as an aspiring Full-Stack Developer. Being Asian I couldn't help but get myself my Parents' arch  nemesis, using my recently acquired JavaScript  skill on an Aesthetic Calculator application.
 
